@@ -1,0 +1,2 @@
+# AssemblyTeam
+Pierwszy projekt
